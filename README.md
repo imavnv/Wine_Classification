@@ -1,7 +1,9 @@
 A neural network that classifies wine as red or white from 12 chemical measurements (acidity, sugar, sulfur dioxide, etc.).Thenafter it,checks why it works using SHAP, and compares that against real oenology research.
 
 Results:
-Accuracy: ~99% neural networks and a simple logistic regression baseline hit this the classes are nearly linearly separable)
+
+Accuracy: ~99% neural networks and a simple logistic regression baseline hit this the classes are nearly linearly separable
+
 Top features the model relies on (via SHAP): total sulfur dioxide, density, residual sugar, chlorides, alcohol
 
 Conclusions I observed through the figure:
