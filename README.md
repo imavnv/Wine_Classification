@@ -9,13 +9,19 @@ Top features the model relies on (via SHAP): total sulfur dioxide, density, resi
 Conclusions I observed through the figure:
 
 1)Total sulfur dioxide : Low on red wine and High on white wine
+
 2) Density : High on red wine and low on white wine
+
 3)Residual sugar : High on white wine 
+
 4)Chlorides : High on red wine
+
 5)Volatile acidity : High on red wine
 
 
+
 Data Source
+
 archive.ics.uci.edu/dataset/186/wine+quality
 
 References
