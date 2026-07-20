@@ -1,6 +1,6 @@
 A neural network that classifies wine as red or white from 12 chemical measurements (acidity, sugar, sulfur dioxide, etc.).Thenafter it,checks why it works using SHAP, and compares that against real oenology research.
 
-Results:
+## Results:
 
 Accuracy: ~99% neural networks and a simple logistic regression baseline hit this the classes are nearly linearly separable
 
@@ -20,11 +20,11 @@ Conclusions I observed through the figure:
 
 
 
-Data Source
+## Data Source
 
 archive.ics.uci.edu/dataset/186/wine+quality
 
-References
+## References
 
 Effect of free SO₂ on red/white wine acidity
 
