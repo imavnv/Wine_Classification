@@ -10,7 +10,7 @@ Conclusions I observed through the figure:
 
 1)Total sulfur dioxide : Low on red wine and High on white wine
 
-2) Density : High on red wine and low on white wine
+2)Density : High on red wine and low on white wine
 
 3)Residual sugar : High on white wine 
 
