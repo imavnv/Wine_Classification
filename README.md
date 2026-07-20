@@ -27,6 +27,9 @@ archive.ics.uci.edu/dataset/186/wine+quality
 References
 
 Effect of free SO₂ on red/white wine acidity
+
 Oenological tannins as SO₂ alternatives
+
 Skin contact and phenolics in white winemaking
+
 SO₂-flavanol sulfonation differs by wine style
